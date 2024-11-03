@@ -1,16 +1,14 @@
-## Herramientas en DevpOs
+# Herramientas en DevpOs
+
 DevOps es la evolución de las metodologías ágiles. Un cambio cultural que une a los equipos de desarrollo y de operaciones. La práctica de DevOps implica un cambio cultural, nuevos principios de gestión y herramientas tecnológicas con las que implementar las prácticas recomendadas.
 Cuando se trata de una cadena de herramientas de DevOps, las organizaciones necesitan herramientas con las que mejorar la colaboración, reducir el cambio de contexto, introducir la automatización y sacar partido de la observabilidad y la supervisión para lanzar software mejor y más rápido.
 Hay dos enfoques principales para las cadenas de herramientas de DevOps:
 1. **Abiertas**: Las cadenas de herramientas abiertas se pueden personalizar con diferentes herramientas según las necesidades del equipo.
-2. **Todo en uno:** Un enfoque de DevOps todo en uno proporciona una solución completa que habitualmente no se integra con otras herramientas de terceros.
-Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).<br>
+2. **Todo en uno:** Un enfoque de DevOps todo en uno proporciona una solución completa que habitualmente no se integra con otras herramientas de terceros. Independientemente del tipo de cadena de herramientas de DevOps que utilice una organización, un proceso de DevOps necesita las herramientas adecuadas para las fases clave del [ciclo de vida de DevOps](https://unity.com/es/topics/devops-lifecycle).
 
 Las herramientas más usadas según el ciclo de DevOps:
 
-<br>
-
-![](https://github.com/Ivanasp43/Devops/blob/main/IMAGENES/Captura%20de%20pantalla%202024-10-29%20162617.png)
+![](https://github.com/xDaMoDzZ/Devops/blob/main/img/Captura%20de%20pantalla%202024-10-29%20162617.png)
 
 
 
