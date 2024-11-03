@@ -7,7 +7,7 @@ Un equipo de DevOps está formado por desarrolladores y profesionales de operaci
 # Ciclo de vida de DevOps
 Debido al carácter continuo de DevOps, se usa un bucle infinito para representar que las fases del ciclo de vida de DevOps se relacionan entre sí. A pesar de que parece fluir de forma secuencial, este bucle simboliza la necesidad de colaboración constante y mejora iterativa a lo largo de todo el ciclo de vida. El ciclo de vida de DevOps se divide en ocho fases, que representan los procesos, capacidades y herramientas necesarios para el desarrollo (en la parte izquierda del bucle) y para las operaciones (en la parte derecha del bucle). A lo largo de cada una de estas fases, los equipos trabajan juntos y mantienen la comunicación para ir coordinados y ajustarse a la misma velocidad y calidad.
 
-![]()
+![](https://github.com/xDaMoDzZ/Devops/blob/main/img/ilustracion-devops-gradiente_23-2149370941.avif)
 
 # Índice
 1. [Filosofía]()
