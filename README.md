@@ -15,4 +15,4 @@ Debido al carácter continuo de DevOps, se usa un bucle infinito para representa
 3. [Oferta de empleo]()
 
 # Referencia
-[Lo que saber de DevOps]()
+[Lo que saber de DevOps](https://tauformar.com/que-es-devops-y-para-que-sirve/)
