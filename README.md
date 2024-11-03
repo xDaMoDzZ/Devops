@@ -10,9 +10,9 @@ Debido al carácter continuo de DevOps, se usa un bucle infinito para representa
 ![](https://github.com/xDaMoDzZ/Devops/blob/main/img/ilustracion-devops-gradiente_23-2149370941.avif)
 
 # Índice
-1. [Filosofía]()
-2. [Herramientas]()
-3. [Oferta de empleo]()
+1. [Filosofía](https://github.com/xDaMoDzZ/Devops/blob/main/Filosofía_devops.md)
+2. [Herramientas](https://github.com/xDaMoDzZ/Devops/blob/main/Herramientas_devops.md)
+3. [Oferta de empleo](https://github.com/xDaMoDzZ/Devops/blob/main/Oferta_devops.md)
 
 # Referencia
 [Lo que saber de DevOps](https://tauformar.com/que-es-devops-y-para-que-sirve/)
